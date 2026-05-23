@@ -37,3 +37,26 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# IDE
+.idea/
+*.iml
+out/
+
+# Build
+target/
+*.jar
+*.war
+*.ear
+
+# Dependencies (Maven managed)
+lib/
+
+# Database
+data/*.db
+*.db
+
+# Temp files
+@echo
+deps.txt
+dependency-reduced-pom.xml
