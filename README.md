@@ -2,7 +2,7 @@
 
 一个使用 **Java + JavaFX** 开发的经典扫雷游戏，具备完整的游戏逻辑、智能模式、游戏记录与统计功能，数据通过 SQLite 本地数据库持久化。
 
-![游戏截图](screenshot.png)  
+<img src="screenshot.png" alt="游戏截图" width="500"> 
 
 ## 功能特点
 
