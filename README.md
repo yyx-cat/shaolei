@@ -42,9 +42,6 @@
 
 3. **运行 JAR 文件**
 java -jar target/shaolei-1.0-SNAPSHOT.jar
-
-好的，下面是 **操作说明** 和 **待改进** 两个部分的 Markdown 源码，你可以直接复制粘贴到 README 中：
-
 ---
 
 ## 🎮 操作说明
